@@ -8,7 +8,7 @@ In addition it contains:
 - File `Report.pdf` with description of all steps
 - File Validation_dataset_200images.zip with 200 annotated images
 - File Validation_dataset_55images.zip with 55 annotated images
-- File `Detection_task_CMMI` - Kaggle notebook for assignment
+- File `detection-task-cmmi_Kaggle.ipynb` - Kaggle notebook for assignment
 
 Notebook is prepared to run on Kaggle platform. Here are the main steps:
 
