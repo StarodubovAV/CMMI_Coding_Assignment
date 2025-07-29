@@ -1,6 +1,14 @@
 # CMMI_Coding_Assignment
 
-This repo contains Kaggle notebooks for Coding Assignment "Stereo‑Vision Boat Detection, Depth Estimation & Geo‑Tracking"
+This repo contains Kaggle notebook for Coding Assignment "Stereo‑Vision Boat Detection, Depth Estimation & Geo‑Tracking"
+
+In addition it contains:
+- Folder Task_3_1_output with two json files: `detections_cam_North.json` and `detections_cam_South.json`
+- Folder Task_3_2_output with two json files: `depths_cam_North.json`, `depths_cam_South.json` and movie `perception_stack_output.mp4`
+- File `Report.pdf` with description of all steps
+- File Validation_dataset_200images.zip with 200 annotated images
+- File Validation_dataset_55images.zip with 55 annotated images
+- File `Detection_task_CMMI` - Kaggle notebook for assignment
 
 Notebook is prepared to run on Kaggle platform. Here are the main steps:
 
