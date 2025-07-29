@@ -4,7 +4,10 @@ This repo contains Kaggle notebook for Coding Assignment "Stereo‑Vision Boat D
 
 In addition it contains:
 - Folder Task_3_1_output with two json files: `detections_cam_North.json` and `detections_cam_South.json`
-- Folder Task_3_2_output with two json files: `depths_cam_North.json`, `depths_cam_South.json` and movie `perception_stack_output.mp4`
+- Folder Task_3_2_output with  movie `perception_stack_output.mp4`. Since json files are quite big, here are google-drive links to them:
+https://drive.google.com/file/d/1DcPn5O1kynB_oCkD6i8Q89P_P5OE48GC/view?usp=sharing
+https://drive.google.com/file/d/1kBP933MP6CZ7bBiIG33kACbPtvwK3CI2/view?usp=sharing
+  
 - File `Report.pdf` with description of all steps
 - File Validation_dataset_200images.zip with 200 annotated images
 - File Validation_dataset_55images.zip with 55 annotated images
