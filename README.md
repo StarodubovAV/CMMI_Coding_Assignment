@@ -2,7 +2,7 @@
 
 This repo contains Kaggle notebooks for Coding Assignment "Stereo‑Vision Boat Detection, Depth Estimation & Geo‑Tracking"
 
-It is highly recommended to run all notebookes on Kaggle platform. Here are the main steps:
+Notebook is prepared to run on Kaggle platform. Here are the main steps:
 
 1. Go to "File", then "Import notebook" and select "CMMI_assignment.ipynb"
 2. Go to "Settings" and then to the "Accelerator" and select "GPU P100"
